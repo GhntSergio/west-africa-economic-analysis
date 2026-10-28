@@ -1,5 +1,7 @@
 # 📊 Projet d'Analyse de l'Évolution Économique des Pays d'Afrique de l'Ouest
 
+> 🇬🇧 **English summary:** Analysis of the economic evolution of West African countries: collection, cleaning and analysis of economic indicators from reliable sources.
+
 ![Africa Economic Growth](https://via.placeholder.com/800x200.png?text=Africa+Economic+Growth)
 
 ## Description du Projet
